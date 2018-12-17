@@ -1,2 +1,4 @@
-# Space-Invader-Revamped-Ver
-Orginal Space Invader Revamped Version by Enveriesage Studios
+# Space Invader Revamped Ver
+<p align = "center">
+  <img src = "textures/1.png">
+</p>
