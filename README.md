@@ -8,3 +8,8 @@ This is just revamped version of orginal space invader (original Space Invader c
 ### Installation Guide
 1. Download All files in this repository.
 2. Run `Space_Invader_Revamped_Ver.exe` to play the game.
+### Editor Guide
+1. Download `Raylib` from www.raylib.com
+2. Run `Notepad ++ for Raylib`
+3. Open `SC.c`
+4. Edit as you like. Enjoy !!!
