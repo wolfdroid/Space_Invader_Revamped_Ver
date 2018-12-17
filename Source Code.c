@@ -149,7 +149,7 @@ int main()
     //Logo Enveriesage
     Texture2D BL = LoadTexture("textures/1.png");                                          //Inisialisasi Background Logo
     Texture2D BS = LoadTexture("textures/BS.png");                                         //Inisialisasi Black Screen
-    const char desc[25] = "Decipher your Envisage";                                        //Animasi Text
+    const char desc[25] = "Redefined your Envisage";                                        //Animasi Text
     Sound LS = LoadSound("sound/E.ogg");                                                   //Inisialisasi suara Logo
     
     //Logo Raylib
