@@ -2,7 +2,7 @@
   <img src = "textures/1.png" width = 360>
 </p>
 
-## Space Invader Revamped Version
+# Space Invader Revamped Version
 ### Brief Description
 This is just revamped version of orginal space invader (original Space Invader copyright by Taito). Open Source Licensed, not for Commercial purpose. Feel free to enjoy or make changes.
 ### Installation Guide
