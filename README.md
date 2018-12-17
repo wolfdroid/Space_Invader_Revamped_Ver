@@ -1,4 +1,6 @@
-<align = "center" img src = "textures/1.png" width = 360>
+<p align = "center">
+  <img src = "textures/1.png" width = 360>
+</p>
 
 ## Space Invader Revamped Version
 ### Brief Description
