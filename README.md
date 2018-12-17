@@ -14,4 +14,6 @@ This is just revamped version of orginal space invader (original Space Invader c
 3. Run `Notepad ++ for Raylib`.
 4. Open `SC.c`.
 5. Edit as you like. Enjoy !!!
-Note : further information about `Raylib` visit www.raylib.com.
+### Note : further information about `Raylib` visit www.raylib.com.
+### Documentation
+![](Documentation/Main.png)  ![](Documentation/GP.png)   ![](Documentation/Help.png)
