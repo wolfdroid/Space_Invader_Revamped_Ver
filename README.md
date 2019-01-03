@@ -1,6 +1,4 @@
-<p align = "center">
-  <img src = "textures/1.png" width = 360>
-</p>
+![](textures/1.png)
 
 # Space Invader Revamped Version
 ### Brief Description
